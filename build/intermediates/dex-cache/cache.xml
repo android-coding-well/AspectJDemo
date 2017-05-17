@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hwj\.android\build-cache\72a16e97d4383fb942997f95d69d529fe3f89d6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc50d2b2e51fc1c618ed72c4839994cebb585cd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hwj\.android\build-cache\54a992d0720ec08348b788facb753de29f7bcfb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15165205458a254b35eae2f2e30c2837db6a1ace\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hwj\.android\build-cache\e72c665172b2c80fb1b64fbd869e3d0d50fc8de0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3b5e98c1dff07034495e832d22e83422ed45603\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hwj\.android\build-cache\79e249d7e4ab8eb819e209609bdbe59be023a33b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a50caa0f6595390596bd5021cfdb2c35c9dc974\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hwj\.android\build-cache\410bb02ba1fac3d6defcb0bd51e5df4b06a04a82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f95d16b458bbe3cf3c86549eb1a5c40de1ddeb65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hwj\.android\build-cache\5bc3ddbdf29a7f9276f821ca79f4e9b9161ab049\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_034ca5c24c5713afaa20f4e11875874daf354379\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hwj\.android\build-cache\c89830333168df54e6bdeb09ca2b2463a4c9cf59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50e7558f6b0c4279937204e6c8987aacbd9436ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_318c502bb4d2508570f2fb1e97bbbdce5f796540\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hwj\.android\build-cache\528a5a5618f317f899c7d238e65bbfd33d889cfa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e92b3bce32ab5638745cae0b44925e53751f0822\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hwj\.android\build-cache\40f3d8829426f4cfcdbaeab58c4a197c3859f0f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a677f73f45ed1b3676031085a186023899ac1380\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Program Files\Android\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.3.2\baseLibrary-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3162679b4009fde859f7eb61c93b6f44d85b3233">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.3.2_8de8292911317e08106736e8f75b77aba63604e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hwj\.android\build-cache\f80f9826dd4c881a6a249f312746a5eac3368660\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2223454de1f1de3fff681cb6dac4be66940a1e5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3fe05e62aad73e8506897e94eb49baa849b502a9">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2429661d8665f5ab53588f1d56ecde015069a04a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hwj\.android\build-cache\5ff165f488b23245404aa6293aa4efe72715a5fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d3f8d2dc84598c16af520b3dae807dcff43a160\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hwj\.android\build-cache\426b4c5dd77215bb6f355ea5f6cd80b122204dfa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a042e0f114afd571fbdb4e3ac684880eabb1d3ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hwj\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.9\87372d9e2323313bec24b09a325bfea8ae0eb867\aspectjrt-1.8.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87372d9e2323313bec24b09a325bfea8ae0eb867">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\aspectjrt-1.8.9_54d8420017954a9c1523460cc49986c7e5350283\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_30f64a62097eb8c494ea5c502ef2f487c2fe4581\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\code_workspace\android\github\AspectJDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_3c9f5880fec0a880f40ecbbebb3a60ccb1f35afa\classes.dex" />
+    </item>
+
+</items>
